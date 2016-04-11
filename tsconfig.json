@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "declaration": true,
+        "noImplicitAny": true,
+        "target": "ES5",
+        "jsx": "react",
+        "sourceMap": true,
+        "outDir": "./dist"
+    },
+    "filesGlob": [
+        "./src/app/**/*.*"
+    ],
+    "exclude": [
+        "dist",
+        "node_modules",
+        "src/test"
+    ]
+}

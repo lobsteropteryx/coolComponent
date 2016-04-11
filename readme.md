@@ -1,0 +1,3 @@
+# coolComponent
+
+It's cool
